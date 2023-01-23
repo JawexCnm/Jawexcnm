@@ -10,4 +10,4 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=)](link)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-quare&labelColor=1ED760&logo=spotify&logoColor=white&link=https://open.spotify.com/user/3126onxfpgz7yafskvksl4pgopky)](link)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Swapencm&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Swapencnm&show_icons=true)
