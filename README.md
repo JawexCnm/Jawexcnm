@@ -14,7 +14,7 @@
   <a href="https://open.spotify.com/user/3126onxfpgz7yafskvksl4pgkpky?si=_dZ7IiZpS2yEcLpQk_rc7w&utm_source=copy-link" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/swapen_cnm/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1087351167253749860?hideDiscrim=true)](https://discord.com/users/996540037162348655)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/996540037162348655?hideDiscrim=true)](https://discord.com/users/996540037162348655)
 
 ```js 
 class SwapenCnm {
