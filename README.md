@@ -1,8 +1,4 @@
 <div align="center">
-<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+SwapenCnm.;mami+is+mami+lann?.">
-</div>
-
-<div align="center">
    <img width="20%" src="https://komarev.com/ghpvc/?username=SwapenCnm&color=070000">
 </div>
 
