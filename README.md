@@ -11,18 +11,3 @@
 
 <h2 align="center">
  <a href="https://discord.com/users/774350978015035393"><img  width="400px" src="https://luppufy.onrender.com/member/774350978015035393"></a>
-
-
-```js 
-class JawéxCnm {
-    constructor(options) {
-        this.name = "Mami",
-        this.age = "22",
-        this.sex = "he / him",
-        this.length = "1,93",
-        this.job = "teacher",
-    };
-}
-
-export default JawéxCnm
-```   
