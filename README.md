@@ -12,6 +12,7 @@
 <h2 align="center">
  <a href="https://discord.com/users/774350978015035393"><img  width="400px" src="https://luppufy.onrender.com/member/774350978015035393"></a>
 
+
 ```js 
 class JawéxCnm {
     constructor(options) {
