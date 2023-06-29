@@ -15,7 +15,7 @@
 class JawéxCnm {
     constructor(options) {
         this.name = "Mami",
-        this.age = "23",
+        this.age = "22",
         this.sex = "he / him",
         this.length = "1,93",
         this.job = "teacher",
