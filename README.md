@@ -11,3 +11,19 @@
 
 <h2 align="center">
  <a href="https://discord.com/users/774350978015035393"><img  width="400px" src="https://luppufy.onrender.com/member/774350978015035393?border=ff0000"></a> </h2> 
+
+ ```js
+class Jawex {
+    constructor(options) {
+        this.name = "Mami",
+        this.sex = "man",
+        this.length = "193",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "78",
+        this.age = "22",
+        this.discord.tag = "@jawexcim"
+    };
+}
+module.exports = Jawex
+```
