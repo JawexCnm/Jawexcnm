@@ -10,4 +10,4 @@
   <a href="https://www.instagram.com/jawex_isone/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <h2 align="center">
- <a href="https://discord.com/users/774350978015035393"><img  width="400px" src="https://luppufy.onrender.com/member/774350978015035393"></a>
+ <a href="https://discord.com/users/928259219038302258"><img  width="400px" src="https://luppufy.onrender.com/member/928259219038302258?border=ff0000"></a> </h2> 
