@@ -4,14 +4,14 @@
 
 
 <p align="center">
- <a href="https://discord.com/users/774350978015035393" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.com/users/249980074822991874" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/JawexCnm" target"blank_"><img width="15%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/jawexcim/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    
-[![Discord Presence](https://lanyard.cnrad.dev/api/774350978015035393)](https://discord.com/users/774350978015035393)
+[![Discord Presence](https://lanyard.cnrad.dev/api/249980074822991874)](https://discord.com/users/249980074822991874)
    
 <h2 align="center">
- <a href="https://discord.com/users/774350978015035393"><img  width="400px" src="https://luppufy.onrender.com/member/774350978015035393?border=ff0000"></a> </h2> 
+ <a href="https://discord.com/users/249980074822991874"><img  width="400px" src="https://luppufy.onrender.com/member/249980074822991874?border=ff0000"></a> </h2> 
 
  ```js
 class Jawex {
