@@ -9,9 +9,7 @@
   <a href="https://www.instagram.com/jawexcim/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    
 [![Discord Presence](https://lanyard.cnrad.dev/api/252162401544175619)](https://discord.com/users/252162401544175619)
-   
-<h2 align="center">
- <a href="https://discord.com/users/249980074822991874"><img  width="400px" src="https://luppufy.onrender.com/member/249980074822991874?border=ff0000"></a> </h2> 
+ 
 
  ```js
 class Jawex {
