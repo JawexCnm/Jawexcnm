@@ -8,7 +8,7 @@
   <a href="https://github.com/JawexCnm" target"blank_"><img width="15%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/jawexcim/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    
-[![Discord Presence](https://lanyard.cnrad.dev/api/252162401544175619)](https://discord.com/users/252162401544175619)
+[![Discord Presence](https://lanyard.cnrad.dev/api/211633007197552640)](https://discord.com/users/211633007197552640)
  
 
  ```js
